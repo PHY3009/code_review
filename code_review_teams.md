@@ -20,7 +20,7 @@ Each of you will review the code of the others in your team.
 * Jonah Golden [repo]() / @ https://github.com/jonahgolden/Final_Project.git
 
 **Group 4:**
-* Sabrina DeSoto [repo]() / @ (to review Billy and Jhanelle's code) 
+* Sabrina DeSoto [repo](https://github.com/sabdesoto/Sab_Final_Project) / @sabdesoto (to review Billy and Jhanelle's code) 
 * Billy Hung [repo]() / @ (to review Jhanelle and Isaac's code)
 * Isaac Menninga [repo](https://github.com/isaac-menninga/final_project) / @isaac-menninga (to review Sabrina and Billy's code)
 * Jhanelle Williams [repo]() / @ (to review Isaac and Sabrina's code)
