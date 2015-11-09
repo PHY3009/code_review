@@ -15,7 +15,7 @@ Each of you will review the code of the others in your team.
 
 **Group 3:**
 * Nicholas Crudele [repo]() / @
-* Kyle Fawkes [repo](https://github.com/kwfawkes/final_project) / @ kwfawkes
+* Kyle Fawkes [repo](https://github.com/kwfawkes/final_project) / @kwfawkes
 * Jonah Golden [repo]() / @
 
 **Group 4:**
