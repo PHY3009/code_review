@@ -22,4 +22,6 @@ Each of you will review the code of the others in your team.
 * Sabrina DeSoto [repo]() / @ (to review Billy and Jhanelle's code) 
 * Billy Hung [repo]() / @ (to review Jhanelle and Isaac's code)
 * Isaac Menninga [repo]() / @ (to review Sabrina and Billy's code)
-* Jhanelle Williams [repo]() / @ (to review Isaac and Sabrina's code)
+* Jhanelle Williams 
+[repo](https://github.com/Jhanelle/Final_Project_Environment) 
+/ @Jhanelle (to review Isaac and Sabrina's code)
