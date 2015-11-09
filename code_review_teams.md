@@ -21,6 +21,6 @@ Each of you will review the code of the others in your team.
 
 **Group 4:**
 * Sabrina DeSoto [repo](https://github.com/sabdesoto/Sab_Final_Project) / @sabdesoto (to review Billy and Jhanelle's code) 
-* Billy Hung [repo](https://github.com/billy7907/Ten-Minute-Plan.git) / @billy790 (to review Jhanelle and Isaac's code)
+* Billy Hung [repo](https://github.com/billy7907/Final-Project) / @billy790 (to review Jhanelle and Isaac's code)
 * Isaac Menninga [repo](https://github.com/isaac-menninga/final_project) / @isaac-menninga (to review Sabrina and Billy's code)
 * Jhanelle Williams [repo](https://github.com/Jhanelle/Final_Project_Environment) / @Jhanelle (to review Isaac and Sabrina's code)
