@@ -5,7 +5,7 @@ Each of you will review the code of the others in your team.
 
 **Group 1:**
 * Nicholas Allan [repo]() / @
-* Talia Oberlander [repo]() / @
+* Talia Oberlander [repo]() / @https://github.com/taliamo/Final_Project
 * Jessica O'Sullivan [repo]() / @
 
 **Group 2:**
